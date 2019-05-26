@@ -1,2 +1,2 @@
-Example content for package A.
+Example content for package A (new version!).
 

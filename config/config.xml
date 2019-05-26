@@ -9,7 +9,7 @@
     <TargetDir>@HomeDir@/IfwExamples/online</TargetDir>
     <RemoteRepositories>
         <Repository>
-            <Url>file:///D:\DOWN\qt_workspace\installer-framework\online.exe</Url>
+            <Url>https://github.com/liupeng2017/online</Url>
         </Repository>
     </RemoteRepositories>
 </Installer>
